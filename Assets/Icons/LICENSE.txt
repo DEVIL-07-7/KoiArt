@@ -1,0 +1,6 @@
+Icons in this folder come from Hugeicons Free (https://hugeicons.com), MIT License.
+Copyright (c) 2025 Hugeicons
+
+Not from Hugeicons: sun.svg, moon.svg, pause.svg, sound-on.svg, sound-off.svg, table.svg, underline.svg, equation.svg, glass.svg, rain.svg, sakura.svg, leaves.svg, fireflies.svg, starfall.svg, plough.svg, santa.svg and wind.svg are our own; arrow-left.svg
+and arrow-up.svg are arrow-right.svg and arrow-down.svg turned round. maker-openai.svg is from
+LobeHub Icons (MIT); the mark itself belongs to OpenAI, and is shown only to say who made a model.
